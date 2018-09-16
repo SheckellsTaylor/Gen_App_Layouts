@@ -1,0 +1,41 @@
+/* styles */
+#wrapper {
+  width:945px;
+  height:100vh;
+  background-color:;
+  color: #000000;
+}
+.hero {
+  width:944px;
+  height:347px;
+  color: #000000;
+}
+
+.heading {
+  font-family: Helvetica;
+color: #000000;
+font-size: 40px;
+font-weight: 700;
+line-height: 46px;
+text-align: center;
+margin-top:30px;
+margin-bottom:30px;
+}
+
+#content {
+  font-family: Helvetica;
+color: #000000;
+font-size: 12px;
+font-weight: 700;
+line-height: 18px;
+text-align: left;
+
+padding-left:50px;
+padding-right:50px;
+word-break: keep-all;
+}
+
+#bottomSpacer {
+  height:30px;
+  color: #000000;
+}
